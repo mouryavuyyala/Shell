@@ -9,7 +9,7 @@
 # Usage:
 #   Please provide your github token and rest api to the script as input
 #updated this script as per assignment, forking repo, cloning repo, creating branch and PR
-#
+# Understanding git fetch vs pull
 ################################
 
 if [ ${#@} -lt 2 ]; then
